@@ -1,0 +1,4 @@
+2025-03-11 03:14:25 - core.utils.vad - INFO - core.utils.vad - SileroVAD
+2025-03-11 03:14:50 - core.providers.asr.fun_local - INFO - core.providers.asr.fun_local - funasr version: 1.2.3.
+2025-03-11 03:14:53 - core.websocket_server - INFO - core.websocket_server - Server is running at ws://192.168.0.10:8000
+2025-03-11 03:14:53 - core.websocket_server - INFO - core.websocket_server - =======上面的地址是websocket协议地址，请勿用浏览器访问=======
